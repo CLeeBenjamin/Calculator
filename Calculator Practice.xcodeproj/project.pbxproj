@@ -56,15 +56,23 @@
 		71E373D121356B190017E986 /* Calculator Practice */ = {
 			isa = PBXGroup;
 			children = (
-				71E373D221356B190017E986 /* AppDelegate.swift */,
 				71E373D421356B190017E986 /* ViewController.swift */,
 				71E373E421356DA80017E986 /* CalculatorButtonDesignable.swift */,
+				71E373E82135D5120017E986 /* Resources */,
+			);
+			path = "Calculator Practice";
+			sourceTree = "<group>";
+		};
+		71E373E82135D5120017E986 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				71E373D221356B190017E986 /* AppDelegate.swift */,
 				71E373D621356B190017E986 /* Main.storyboard */,
 				71E373D921356B1A0017E986 /* Assets.xcassets */,
 				71E373DB21356B1A0017E986 /* LaunchScreen.storyboard */,
 				71E373DE21356B1A0017E986 /* Info.plist */,
 			);
-			path = "Calculator Practice";
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
